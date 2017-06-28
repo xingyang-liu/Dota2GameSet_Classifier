@@ -1,0 +1,41 @@
+reading training and testing data...
+******************* NB ********************
+training took 0.052824s!
+precision: 53.53%, recall: 100.00%
+accuracy: 53.59%
+******************* KNN ********************
+training took 0.716223s!
+precision: 68.28%, recall: 69.61%
+accuracy: 66.48%
+******************* LR ********************
+training took 2.721233s!
+precision: 84.64%, recall: 86.66%
+accuracy: 84.47%
+******************* RF ********************
+training took 5.523099s!
+precision: 62.94%, recall: 47.69%
+accuracy: 57.03%
+******************* DT ********************
+training took 7.936016s!
+precision: 56.51%, recall: 53.65%
+accuracy: 53.16%
+******************* GBDT ********************
+training took 119.421276s!
+precision: 74.94%, recall: 79.61%
+accuracy: 74.87%
+******************* SVM-rbf ********************
+training took 6596.360000s!
+precision: 76.89%, recall: 81.10%
+accuracy: 76.87%
+******************* SVM-linear ********************
+training took 7207.641000s!
+precision: 85.49%, recall: 87.37%
+accuracy: 85.32%
+******************* SVM-poly ********************
+training took 9018.278000s!
+precision: 74.66%, recall: 78.23%
+accuracy: 74.17%
+******************* SVM-sigmoid ********************
+training took 9824.710000s!
+precision: 75.62%, recall: 80.35%
+accuracy: 75.66%

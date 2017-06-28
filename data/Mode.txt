@@ -1,0 +1,23 @@
+Unknown: 0, 0%
+All Pick: 1229, 1%
+Captain's Mode: 71897, 77%
+Random Draft: 386, 0%
+Single Draft: 208, 0%
+All Random: 12, 0%
+Intro: 498, 0%
+Diretide: 81, 0%
+Reverse Captain's Mode: 8306, 8%
+The Greeviling: 10033, 10%
+Tutorial: 0, 0%
+Mid Only: 0, 0%
+Least Played: 0, 0%
+New Player Pool: 0, 0%
+Compendium Matchmaking: 0, 0%
+Custom: 0, 0%
+Captains Draft: 0, 0%
+Balanced Draft: 0, 0%
+Ability Draft: 0, 0%
+Event: 0, 0%
+All Random Death Match: 0, 0%
+Solo Mid 1 vs 1: 0, 0%
+Ranked All Pick: 0, 0%
